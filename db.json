@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": "1.99"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": "14000.89"
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": 5000.89
+    },
+    {
+      "name": "Geladeira",
+      "price": "1913.99",
+      "id": 4
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.98,
+      "id": 5
+    },
+    {
+      "name": "Geladeira",
+      "price": "12.564",
+      "id": 7
+    },
+    {
+      "name": "Lápis preto básico",
+      "price": "2.00",
+      "id": 9
+    },
+    {
+      "name": "Mouse óptico usb",
+      "price": "15.00",
+      "id": 10
+    }
+  ]
+}
